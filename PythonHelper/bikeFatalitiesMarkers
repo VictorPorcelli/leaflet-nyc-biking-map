@@ -1,0 +1,784 @@
+var circle = L.circle([40.8538084, -73.8552781], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.846825, -73.89705], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.845985, -73.884476], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.844524, -73.902725], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.83527, -73.832245], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.8344, -73.87276], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.833843, -73.94851], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.8252, -73.867714], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.8252, -73.867714], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.814934, -73.91496], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.813347, -73.958626], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.812622, -73.92934], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.809105, -73.9229], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.804695, -73.92239], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.801754, -73.93121], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.797306, -73.93446], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.78858, -73.955284], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.784943, -73.946594], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.778625, -73.982086], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.77309, -73.91108], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.772415, -73.97874], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.7716414, -73.8728386], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.771347, -73.92285], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.7699819, -73.994646], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.767815, -73.98951], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.764896, -73.97256], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.7608, -73.93915], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.759163, -73.988396], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.756996, -73.90784], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.75326, -74.00383], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.751835, -73.82427], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.747852, -73.99291], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.747204, -73.99711], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.745975, -73.948074], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.7439732, -73.8850947], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.74397316, -73.88509474], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.74223, -73.95885], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.740913, -73.95226], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.738785, -73.98887], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.73136, -73.98257], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.729046, -74.01073], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.72857, -73.85809], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.72846, -73.95737], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.728195, -73.984886], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.7263, -73.94913], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.7219679, -74.0082326], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.719543, -73.85914], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.718628, -74.00255], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.7171751, -74.0128675], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.716194, -73.996086], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.71453, -73.9444], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.71453, -73.9444], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.709602, -73.991936], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.70801, -73.95673], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.70621, -73.939606], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.70113, -73.96087], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.699673, -73.940056], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.6971856, -73.9288333], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.694305, -73.91852], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.6866826, -73.9595689], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.684963, -73.935455], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.678867, -73.90823], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.6780631, -73.97618], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.677338, -73.927536], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.67657, -73.94431], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.67611, -73.905594], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.669655, -73.99253], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.668667, -73.868324], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.667027, -73.911026], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.663555, -73.93162], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.66301958, -73.94002911], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.662132, -73.999275], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.661163, -74.00069], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.65620528, -73.88668755], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.65616, -73.76736], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.656124, -74.00591], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.65375, -73.90166], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.650806, -73.94958], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.644455, -74.0183], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.64433, -73.919914], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.643456, -73.972725], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.643063, -73.95166], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.641953, -73.9885], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.634815, -73.901276], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.633858, -74.12596], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.630672, -73.981895], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.628803, -73.97404], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.626755, -73.98598], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.619984, -73.96427], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.61462, -73.968666], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.612522, -73.81978], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.6100983, -73.9613729], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.6094, -73.967674], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.607258, -73.96727], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.605072, -73.92988], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.60438, -73.973976], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.602074, -74.1672], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.5982053, -73.9621036], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.586746, -73.81712], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.5729078, -74.1370436], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.753211, -74.00396], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.743456, -73.992412], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.747427, -73.975752], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.715827, -73.934078], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.655408, -73.972087], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.731103, -73.919378], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.762001, -73.758448], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.592172, -73.924484], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.711585, -73.944855], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.862363, -73.815603], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.803898, -73.928058], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
+var circle = L.circle([40.772844, -73.968084], {
+color: 'red',
+fillColor: 'red',
+fillOpacity: 1.0,
+radius: 25
+}).addTo(myCircles);
+
